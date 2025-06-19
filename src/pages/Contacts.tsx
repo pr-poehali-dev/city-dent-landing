@@ -24,9 +24,7 @@ const Contacts = () => {
                   <div>
                     <h3 className="font-semibold text-gray-900">Адрес</h3>
                     <p className="text-gray-700">
-                      г. Москва, ул. Примерная, д. 123
-                      <br />
-                      БЦ "Медицинский", офис 456
+                      г. Екатеринбург, ул. Ясная, д. 8
                     </p>
                   </div>
                 </div>
